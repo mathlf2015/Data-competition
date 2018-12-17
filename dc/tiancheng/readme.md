@@ -1,6 +1,6 @@
 ##### 2018年甜橙金融杯大数据建模大赛
 队伍名:newbeeee    12/1831    
-这是我们队伍中我自己的那部分代码，队友[ration部分](https://github.com/rationme/Taincheng)也已经开源，使用trick修改label后可以达到b榜单模058，一言难尽的经历。感谢队友的carry吧。
+这是我们队伍中我自己的那部分代码，队友deng,[ration部分](https://github.com/rationme/Taincheng)也已经开源，使用trick修改label后可以达到b榜单模058，一言难尽的经历。感谢队友的carry吧。
 ##### 总结
 
 ```
